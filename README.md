@@ -1,0 +1,2 @@
+# neu_university_4S_2
+此项目使用python的requests等库，来进行东软4s平台网课快速刷取，目前仅支持视频阅读
