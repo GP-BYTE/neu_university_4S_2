@@ -15,7 +15,7 @@
 ### 1. 克隆仓库
 ```bash
 git clone https://github.com/yourusername/pachong_for_neu.git
-cd pachong_for_neu
+cd neu_university_4s_2
 
 ### 2. 安装依赖
 pip install -r requirements.txt
