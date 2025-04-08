@@ -14,7 +14,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/pachong_for_neu.git
+git clone https://github.com/GP-BYTE/neu_university_4S_2.git
 cd neu_university_4s_2
 
 ### 2. 安装依赖
