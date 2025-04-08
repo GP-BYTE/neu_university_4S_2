@@ -31,7 +31,7 @@ url：https://github.com/sml2h3/ddddocr。
 user_info.json: 存储用户信息。
 
 ### 5. 运行程序
-python main.py
+python app.py
 随后根据提示输入用户名和密码。
 
 ### 6. 注意事项
